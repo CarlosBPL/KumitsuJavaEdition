@@ -2,3 +2,11 @@ h1 {
     width: 100%;
     font-size: larger;
 }
+.p { 
+    opacity: 1;
+    transition: 1s;
+}
+.test { 
+    opacity: 0;
+    transition: 1s;
+}
